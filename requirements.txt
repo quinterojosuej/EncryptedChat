@@ -5,4 +5,4 @@
     --> As Windows 10 was the primary operating system used for this program
     --> Otherwise the ip addresses are likely to not work as testing was not possible for Mac OS or Linux
 
-Otherwise this program will not be able to function in any manner.
+Otherwise this program will function.
