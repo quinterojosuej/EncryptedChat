@@ -1,0 +1,8 @@
+~~~~~~~~~~For this program to workplease use:
+# PyQt5 ver 5.10 or greater.
+# Also have python3 ver 3.6 or greater
+* Also have a Windows 10 computer/Laptop
+    --> As Windows 10 was the primary operating system used for this program
+    --> Otherwise the ip addresses are likely to not work as testing was not possible for Mac OS or Linux
+
+Otherwise this program will not be able to function in any manner.
